@@ -1,11 +1,12 @@
+//add your credentials
 var firebaseConfig = {
-    apiKey: "AIzaSyApJJ8BysCE2PKxXEYvprLIP371KrVlobo",
-    authDomain: "test123-4a3ee.firebaseapp.com",
-    projectId: "test123-4a3ee",
-    storageBucket: "test123-4a3ee.appspot.com",
-    messagingSenderId: "819540481144",
-    appId: "1:819540481144:web:d63e987cc9718c3b2f898d",
-    measurementId: "G-KHSVQ2ZJPB"
+    apiKey: "ADD_API",
+    authDomain: "ADD_AUTH",
+    projectId: "ADD_PROJID",
+    storageBucket: "ADD_STORAGE",
+    messagingSenderId: "ADD_MESSAGE",
+    appId: "ADD_APPID",
+    measurementId: "ADD_MESUREMENT"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
